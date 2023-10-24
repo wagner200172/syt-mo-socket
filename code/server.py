@@ -1,6 +1,5 @@
 import socket
- 
- 
+
 def server_program():
     host = socket.gethostname()
     port = 9979
