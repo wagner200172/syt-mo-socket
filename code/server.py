@@ -3,7 +3,7 @@ import socket
  
 def server_program():
     host = socket.gethostname()
-    port = 9979  
+    port = 9979
 
     server_socket = socket.socket()
    
